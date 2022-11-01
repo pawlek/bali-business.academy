@@ -1,0 +1,9 @@
+@media (max-width: 430px) {
+    section{
+        &.main{
+            img{
+                height: 400px;
+            }
+        }
+    }
+}

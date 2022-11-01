@@ -51,6 +51,21 @@
       "pg" : 3,
       "sct" : 0
     },
+    "\/assets\/css\/scss\/mobile.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/css\/scss\/mobile.scss",
+      "oF" : 1,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/assets\/css\/scss\/sections.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -59,9 +74,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/assets\/css\/scss\/sections.css",
-      "oF" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/css\/scss\/sections.scss",
+      "oF" : 1,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
